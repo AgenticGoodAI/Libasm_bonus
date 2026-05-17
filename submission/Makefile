@@ -1,5 +1,5 @@
 
-SRC = ft_strcpy.s ft_strlen.s ft_strcmp.s ft_strdup.s ft_read.s ft_write.s
+SRC = ft_strcpy.s ft_strlen.s ft_strcmp.s ft_strdup.s ft_read.s ft_write.s ft_list_size
 OBJ = $(SRC:.s=.o)
 
 ASM = nasm

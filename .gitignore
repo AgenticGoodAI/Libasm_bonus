@@ -10,3 +10,6 @@ docker-compose.yml
 Makefile
 r4b
 tester
+*.o
+*.out
+*.a
